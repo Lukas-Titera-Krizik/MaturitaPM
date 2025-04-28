@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<dum>
+	<mistnost id="0">
+		<popis>Veranda</popis>
+	</mistnost>
+	<mistnost id="1">
+		<popis>Kuchyně</popis>
+	</mistnost>
+</dum>

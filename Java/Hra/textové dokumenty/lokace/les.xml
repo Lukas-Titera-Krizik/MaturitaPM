@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<les>
+	<mistnost id="0">
+		<popis>
+Jsi ve středu rozlehlého lesního clearingu. Slunce září svými paprsky mezi korunami stromů,
+které tvoří téměř dokonalou klenbu nad tebou. Země je pokryta měkkým, zeleným mechem,
+který ti příjemně tlumí kroky.
+
+Vzdáleně slyšíš šumění potoka, který se vine z jedné strany clearingu. Jeho voda se odráží v
+slunečních paprscích, tvořících třpytivé záblesky. Ocitáš se uprostřed klidného a
+mírumilovného místa, ve kterém se zdá, že čas plyne pomaleji.
+
+Cesty:
+
+1. Přírodní pěšina: Zpoza stromů vybíhá úzká pěšina, zahalená do stínu. Větvemi se táhne 
+dál do hlubokého lesa, který je plný tajemství a nebezpečí.
+
+2. Most přes řeku: Kousek od clearingu se tyčí dřevěný most, který překlenuje divokou řeku, 
+jejíž vody sviští mezi stromy. Most vypadá staře a byl postaven z hrubých klád a 
+provazu. Otevírá možnost dostat se na druhou stranu řeky, kde se nachází opuštěná
+jeskyně.
+
+3. Odejít z lesa
+		</popis>
+		<cesta1>1</cesta1>
+		<cesta2>3</cesta2>
+		<utok>0</utok>
+		<odmena>0</odmena>
+	</mistnost>
+	<mistnost id="1">
+		<popis>
+Když vykročíš na úzkou přírodní pěšinu, pocítíš, jak tě les obklopí svým tichem a temnotou. 
+Stinné větve stromů se nad tebou splétají do podoby přírodního tunelu, vytvářejícího 
+tajemnou atmosféru.
+
+Kroky se ti ztrácejí v koberci měkkých jehličí, které tlumí každý tvůj pohyb. Ze všech stran 
+slyšíš šepot lesa a praskání větví, což ti připomíná, že nejseš sám. Vzácně prolínající sluneční 
+paprsky poskakují mezi stromy a rozjasňují kousky trávy na zemi.
+
+Cesty:
+
+1. Pokračovat po cestě
+
+2. Vrátit se zpět
+		</popis>
+		<cesta1>2</cesta1>
+		<cesta2>0</cesta2>
+		<utok>1</utok>
+		<odmena>0</odmena>
+	</mistnost>
+	<mistnost id="2">
+		<popis>
+Před tebou se tyčí vysoké skály, obrostlé mechy a kapradinami. Z jejich skalnatých stěn 
+tryskají malé vodopády, které tvoří osvěžující proudy vody. Vítr šeptá své tajemné písně mezi 
+štěrbinami skal a přináší ti vůni divokého květinového pole.
+
+Uprostřed průsmyku se nachází zvláštní strom, jehož koruna se dotýká nebeského světla. Ve 
+stínu tohoto stromu spatříš truhlici, plnou několika předmětů, které budeš moci ve vesnici
+prodat.
+
+Na účet ti byla připsána pěněžní hodnota kořisti (200).
+
+Cesty:
+
+1. Odejít z lesa
+
+2. Vrátit se zpět
+		</popis>
+		<cesta1>666</cesta1>
+		<cesta2>1</cesta2>
+		<utok>0</utok>
+		<odmena>300</odmena>
+	</mistnost>
+	<mistnost id="3">
+		<popis>
+Když vkročíš na most, pocítíš, jak pod tebou rezonují tvé kroky. Voda v řece zuří a sviští, jak 
+se valí mezi kamennými břehy. Okolo tebe se rozprostírá zelené koruny stromů, které tvoří 
+jakési ochranné klenoty nad tímto tajemným přechodem.
+
+Opatrně pokračuješ po mostě, s každým krokem se pečlivě vyhýbáš nejistým prknům a 
+rozpadlým místům. Tvá odvaha a dovednosti ti umožňují bezpečně dorazit na druhou stranu 
+řeky, kde se nachází vstup do opuštěné jeskyně.
+
+Cesty:
+
+1. Pokračovat do jeskyně
+
+2. Vrátit se zpět
+		</popis>
+		<cesta1>4</cesta1>
+		<cesta2>2</cesta2>
+		<utok>1</utok>
+		<odmena>0</odmena>
+	</mistnost>
+	<mistnost id="4">
+		<popis>
+Tvoje kroky se odrazí od vlhkých a kluzkých podlah, když se pohybuješ stále hlouběji do nitra 
+jeskyně. Cítíš, jak se ti zvedá napětí v břiše, až se konečně před tebou otevře prostorná 
+komora, plná tajemna.
+
+Stále se přesvědčuješ, že toto místo není pouhým úkrytem pro zvířata, ale možná ukrývá 
+něco mnohem víc. Tvé oči se upínají na tmavé chodby a zákoutí, která zve k průzkumu. Po
+několika minutách strádání v jeskyni narazíš na truhlici ukrývající cenné dokumenty.
+
+Na účet ti byla připsána pěněžní hodnota kořisti (250).
+
+Cesty:
+
+1. Odejít z lesa
+
+2. Vrátit se zpět
+		</popis>
+		<cesta1>666</cesta1>
+		<cesta2>3</cesta2>
+		<utok>0</utok>
+		<odmena>350</odmena>
+	</mistnost>
+</les>

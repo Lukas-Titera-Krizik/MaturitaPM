@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<benzinka>
+	<mistnost id="0">
+		<popis>Venek</popis>
+	</mistnost>
+	<mistnost id="1">
+		<popis>Vnitřek</popis>
+	</mistnost>
+</benzinka>

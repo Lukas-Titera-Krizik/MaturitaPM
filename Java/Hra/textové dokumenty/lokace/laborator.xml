@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<laborator>
+	<mistnost id="0">
+		<popis>
+Před tebou se tyčí zchátralá a opuštěná budova, která v minulosti sloužila jako výzkumné 
+zařízení pro kontroverzní experimenty. Její fasáda je porostlá plísní a mechem, okna jsou 
+zahalená pavučinami a zčernalá časem. Vchodové dveře visí na posledním pantu a šramotí 
+ve větru, jakmile je otevřeš.
+
+Když vkročíš dovnitř, vítá tě temnota a zatuchlý zápach. Stěny jsou odlupující se omítkou a 
+na zemi leží trosky a vymyté sklochy. Opuštěné vybavení, rozbité nádoby a zařízení, která 
+sloužila k provedení experimentů, jsou roztroušené po celé místnosti.
+
+Zašustění a šramot se ozývají z temných koutů budovy, evokujíce přítomnost něčeho 
+neznámého a nebezpečného. Světlo, které proniká skrze praskliny v oknech, osvětluje jen 
+část prostoru, zatímco zbytek pohlcuje temnota.
+
+Cesty:
+
+1. Cesta vede k dalším místnostem, kde byly prováděny experimenty a kde se mohou skrývat 
+důležité informace o tom, co se zde odehrávalo.
+
+2. Cesta vede do podzemních chodeb, které sloužily jako vězení pro mutované bytosti.
+
+3. Odejít pryč
+		</popis>
+		<cesta1>1</cesta1>
+		<cesta2>3</cesta2>
+		<utok>0</utok>
+		<odmena>0</odmena>
+	</mistnost>
+	<mistnost id="1">
+		<popis>
+Vstoupíš do další místnosti, která působí ještě temněji a děsivěji než ta předchozí. Všude 
+kolem se rozprostírají stoly s laboratorními náčiním, skleněné stojany s zkumavkami a různé 
+přístroje, které sloužily k provádění experimentů. Je zde cítit zápach chemikálií a ozvěny 
+minulého zmatku.
+
+Na stolech a regálech zahlédneš roztrhané papíry, deníky a laboratorní záznamy. Mohou 
+obsahovat cenné informace o experimentech, výsledcích a důvodech pro jejich provádění. 
+Avšak v těchto temných a zaneřáděných prostorech se také mohou skrývat nebezpečí, jako 
+neaktivované pasti nebo pozůstatky mutovaných zvířat.
+
+Cesty:
+
+1. Pokračovat v prozkoumávání
+
+2. Vrátit se zpět
+		</popis>
+		<cesta1>2</cesta1>
+		<cesta2>0</cesta2>
+		<utok>1</utok>
+		<odmena>0</odmena>
+	</mistnost>
+	<mistnost id="2">
+		<popis>
+Pronikáš hlouběji do místnosti a ocitáš se u jednoho ze stolů uprostřed. Na něm zahlédneš 
+starý počítač s rozbitou obrazovkou, ale zůstal zapnutý. Po chvilce se ti podaří najít 
+klávesnici a po několika pokusech se ti podaří na obrazovce rozkódovat heslo.
+
+Objeví se seznam souborů, z nichž jeden nese název "Tajný projekt". Po otevření souboru se 
+na obrazovce zobrazí tajemný dokument, který odhaluje pravdu o kontroverzních 
+experimentech BioTech Solutions. Dokument popisuje, jak byli lidé využíváni jako pokusní 
+králíci a jaké neetické metody byly použity.
+
+Tak jsi objevil důkazy, které mohou svědčit o vině BioTech Solutions a odhalit pravdu o jejich 
+nekalých praktikách. Ve vesnici je dáš do rukou někomu, kdo má moc odkrýt pravdu a přinést 
+spravedlnost.
+
+Odměna za nalezení dokumentů ti byla připsána na účet (400).
+
+Cesty:
+
+1. Opustit laboratoř
+
+2. Vrátit se zpět
+		</popis>
+		<cesta1>666</cesta1>
+		<cesta2>1</cesta2>
+		<utok>0</utok>
+		<odmena>400</odmena>
+	</mistnost>
+	<mistnost id="3">
+		<popis>
+Scházíš po krkolomných schodech do temných podzemních chodeb, které sloužily jako 
+vězení pro mutované bytosti. V této tiché a dusné atmosféře cítíš těžký zápach vlhkosti a 
+rozkladu. Stěny jsou pokryté vlhkými skvrnami a neznámé tekutiny se táhnou po zemi.
+
+Začneš slyšet šelesty a nepřirozené zvuky, které pronikají z temnoty před tebou. Chodby se 
+větví do různých směrů, a tak není jasné, co tě v nich může čekat. Možná ještě jedna 
+zmutovaná bytost, která se stala obětí těchto experimentů, nebo jiné nebezpečí, které čeká 
+na svou příležitost.
+
+Cesty:
+
+1. Pokračovat v průzkumu
+
+2. Vrátit se zpět
+		</popis>
+		<cesta1>4</cesta1>
+		<cesta2>2</cesta2>
+		<utok>1</utok>
+		<odmena>0</odmena>
+	</mistnost>
+	<mistnost id="4">
+		<popis>
+Proplétáš se temnými chodbami a po chvíli přicházíš k místnosti, která ti připadá jako 
+laboratoř. Na stolech a poličkách zahlédneš různé lahvičky, zkumavky a přístroje, které slouží 
+k provádění experimentů.
+
+Na jednom z regálů objevíš láhev s nápisem "Experimentální lék". Vypadá to, že se jedná o 
+nový lék vyvinutý BioTech Solutions pro potlačení mutací. Tento lék by mohl být klíčem k 
+potlačení mutací u zmutovaných bytostí, které se rozptýlily po okolí.
+
+Tak jsi našel vzácný a cenný objekt, který může mít velký vliv na záchranu a uzdravení 
+mutovaných bytostí, a tím i na osvobození oblasti od jejich teroru.
+
+Odměna za nalezení protilátky ti byla připsána na účet (450).
+
+Cesty:
+
+1. Odejít z laboratoře
+
+2. Vrátit se zpět
+		</popis>
+		<cesta1>666</cesta1>
+		<cesta2>3</cesta2>
+		<utok>0</utok>
+		<odmena>450</odmena>
+	</mistnost>
+</laborator>
